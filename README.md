@@ -1,1 +1,1 @@
-this is a task managin full stack web app 
+this is a task managing full stack web app 
